@@ -1,3 +1,73 @@
-  h1 {
-      color: rebeccapurple;
-  }
+h1 {
+    position: relative;
+    top: 87px;
+    right: -262px;
+    font-size: 50px;
+    font-family: 'Patua One', cursive;
+}
+
+h2 {
+    position: relative;
+    top: 80px;
+    right: -294px;
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    position: relative;
+    top: 77px;
+    right: -341px;
+    font-size: 28px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    position: relative;
+    top: -65px;
+    left: 125px;
+    font-family: 'Patua One', cursive;
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.weather-app {
+    border: 1px solid black;
+    padding: 25px;
+    margin: 50px auto;
+    max-width: 630px;
+    border-radius: 20px;
+
+}
+
+
+.col-7 {
+    position: relative;
+    top: -84px;
+    left: 130px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+
+
+.sun-emoji {
+    position: relative;
+    top: -210px;
+    left: 1px;
+    font-size: 110px;
+}
+
+.search-form {
+    margin-top: 20px;
+    display: block;
+
+}
+
+.temp {
+    font-size: 50px;
+
+}
